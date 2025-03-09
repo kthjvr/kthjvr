@@ -11,16 +11,16 @@
 <div align="center">
   <h3>Reach out!</h3>
   <p>Let's collaborate! Connect with me below.</p>
-    <a href="https://www.instagram.com/knightgamer87/" target="_blank">
+    <a href="https://www.instagram.com/kx.linaa/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank">
+    <a href="www.linkedin.com/in/kathleenjavier" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://facebook.com/kenan.gain" target="_blank">
+    <a href="https://www.facebook.com/kx.linaa" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
-    <a href="" target="_blank">
+    <a href="https://github.com/kthjvr" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
 </div>
