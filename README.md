@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F5A5C8&width=435&lines=Hi%2C+I'm+Kathy!;Quality+Assurance+Analyst;Front-End+Web+Developer" alt="Typing SVG" />
 </a>
 
-<p>I'm a dedicated quality assurance specialist and front-end developer focused on ensuring your website is bug-free and functions flawlessly.</p>
+<p>I'm a dedicated quality assurance analyst and front-end developer focused on ensuring your website is bug-free and functions flawlessly.</p>
 
 ---
 <div align="center">
