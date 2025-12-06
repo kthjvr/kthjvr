@@ -20,9 +20,6 @@
     <a href="https://www.facebook.com/kx.linaa" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
-    <a href="https://github.com/kthjvr" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
 </div>
 
 ---
